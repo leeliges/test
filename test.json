@@ -1,6 +1,7 @@
 {
   "return": "0",
-  "retDesc": "OK",
-  "retDescKor": "OK",
-  "uuid": "04247984755d38a4"
+  "lastversion": "1.0.0.1",
+  "target": "JWMaster",
+  "downloadpage": "http://www.naver.com/news",
+  "downloadurl": "http://www.naver.com"
 }
